@@ -1,0 +1,80 @@
+App:
+
+roles:
+User
+HR
+Admin
+
+HR view
+
+add Job
+remove Job(own created job)
+check Jobs 
+See Jobs
+
+
+
+User View
+
+Apply for Job
+See jobs
+Edit Profile
+
+
+
+Admin view
+
+Edit
+Delete
+View all the things
+
+
+
+
+login :
+
+email
+pass
+
+
+
+
+user register:
+
+email
+pass
+pfp
+cv
+skills
+description
+about
+experience
+projects
+
+
+HR Register:
+
+image
+email
+pass
+about
+
+
+
+Comps:
+Job:
+
+Job name
+Role
+Location
+Experience
+Type(Remote/Hybrid/On-site)
+Description
+Requirements
+
+
+
+
+
+
+
